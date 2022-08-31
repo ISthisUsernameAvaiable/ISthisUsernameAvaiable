@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ISthisUsernameAvaiable
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning html code
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to enjoy
 - 📫 How to reach me: Had reddit account, currently unavaiable 
 
 <!---
